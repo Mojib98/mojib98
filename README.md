@@ -18,9 +18,9 @@
 <!-- - 🌱 I’m currently focusing on **Backend Web Development**.
  -->
  - 🌱 I’m currently exploring JAVA SE , JAVA EE & Spring.
- - 😀My interest lies in Back end development and Linux.
- - 🤩New thing???Ok "I DO IT"
- - 😎Never stop learning
+ - 😀 My interest lies in Back end development and Linux.
+ - 🤩 New thing???Ok "I DO IT"
+ - 😎 Never stop learning
 <br>
 <br>
 
